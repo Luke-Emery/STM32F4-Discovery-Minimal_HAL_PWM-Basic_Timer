@@ -1,5 +1,5 @@
 ![Banner image for Robotic Programming at Staffordshire University](/BB_Banner_RP_ULTRA@4x.png)
-# STM32F4-Discovery-Minimal_HAL_Timers
+# STM32F4-Discovery-Minimal_HAL_PWM+Basic_Timer
 A minimal project for HAL projects on the STM32F4 Discovery Board. No configuration is provided other than the automatically generated initialisation by the Cube IDE.
 This version has the oscillators configured, with the timing being sourced from the high speed external oscillator (HSE). This will require configuration when using the timers on the microcontroller.
 
